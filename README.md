@@ -9,7 +9,9 @@
 🖥 Back-End Developer 
   <br>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+<a href="https://po-dadak.tistory.com/"> 
   <img src="https://img.shields.io/badge/Tistory-e74f05?style=flat&logoColor=white" />
+</a>
 <br><Br><br>
   
 ### 🛠 SKILLS 🛠
