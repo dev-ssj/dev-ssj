@@ -24,12 +24,12 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
-</div>
-<br>
+
+<br><br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ssj&layout=compact)](https://github.com/dev-ssj/github-readme-stats)
 
-
+</div>
   
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=c9c9ca&height=140&section=footer&fontColor=ffffff&fontSize=90&fontAlignY=40" />
