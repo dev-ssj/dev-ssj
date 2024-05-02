@@ -39,6 +39,6 @@
 </div>
   
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=c9c9ca&height=140&section=footer&fontColor=ffffff&fontSize=90&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=Waving&customColorList=18&height=160&section=footer&fontColor=ffffff&fontSize=90&fontAlignY=40" />
 </p>
   
